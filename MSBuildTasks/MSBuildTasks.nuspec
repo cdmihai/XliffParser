@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://raw.githubusercontent.com/fmuecke/XliffParser/master/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/fmuecke/XliffParser</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>MSBuild tasks to update xlf from resx and to save xlf to resx</releaseNotes>
+    <copyright>Copyright © 2016  Florian Mücke</copyright>
+    <tags>XLF XLIFF Resx translation msbuild task</tags>
+	<dependencies />
+  </metadata>
+</package>
